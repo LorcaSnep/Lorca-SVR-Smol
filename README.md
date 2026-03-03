@@ -8,3 +8,9 @@ One aspect of this tracker that is a significant departure from similar designs 
 ## Project Status
 
 As of 3/3/26, I am awaiting delivery of the first PCBs and components and I have not begun testing the case components.  The next step is to test the PCBs when they arrive and determine if any changes need to be made before I begin refining the case hardware.  Additionally, I have not started working on the dock yet.  I have designed a temporary programming one but the final one has not been designed.
+
+## Current PCB Design
+
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20Smol%20PCB%20Front.PNG)
+
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20Smol%20PCB%20Back.PNG)
