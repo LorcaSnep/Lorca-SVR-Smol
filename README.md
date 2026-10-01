@@ -11,6 +11,6 @@ As of 3/3/26, I am awaiting delivery of the first PCBs and components and I have
 
 ## Current PCB Design
 
-![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20Smol%20PCB%20Front.PNG)
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/SVR%20Lorca%20PCB%20Front.PNG)
 
-![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20Smol%20PCB%20Back.PNG)
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/SVR%20Lorca%20PCB%20Back.PNG)
