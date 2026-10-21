@@ -13,22 +13,33 @@ In addition to the trackers, I have designed a charging dock / base station for 
 
 As of 10/21/26, I am awaiting delivery of the first PCBs and components and I have begun printing case prototypes.  
 
-## Current Tracker PCB Design
+## PCB Design
 
-# ICM-45686
+### ICM-45686
 
-![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/SVR%20Lorca%20PCB%20Front.PNG)
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20V5.0%20ICM%20Front.PNG)
 
-![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/SVR%20Lorca%20PCB%20Back.PNG)
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20V5.0%20ICM%20Back.PNG)
 
-# LSM6DSVTR
+### LSM6DSVTR
 
-![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/SVR%20Lorca%20PCB%20Front.PNG)
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20V5.0%20LSM%20Front.PNG)
 
-![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/SVR%20Lorca%20PCB%20Back.PNG)
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20V5.0%20LSM%20Back.PNG)
 
-# Charging Dock
+### Charging Dock
 
-![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/SVR%20Lorca%20PCB%20Front.PNG)
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20Dock%20Front.PNG)
 
-![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/SVR%20Lorca%20PCB%20Back.PNG)
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20Dock%20Back.PNG)
+
+## Current Complete Design
+
+### Tracker
+
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20V5.0%20Tracker.PNG)
+
+### Dock
+
+![Error](https://github.com/LorcaSnep/Lorca-SVR-Smol/blob/main/Images/Lorca%20SVR%20V5.0%20Dock.PNG)
+
