@@ -1,4 +1,4 @@
-To begin, this project is in progress and is in no way ready for full deployment.
+To begin, this project is in progress and is not ready for full deployment.
 
 ## Overview
 I began this project with the goal of designing a very compact full body tracker based on the Nordic Semiconductor NRF52833 utilized in the Smol SlimeVR Project.  To limit the immediate complexity of the design, I opted to utilize the Insight ISP1907-HT.  This part packages the NRF52833 with an antenna and all of the associated components along with a number of other required components.  This makes it a very easy way to simply "drop" an NRF52833 into a design.  In addition to the ISP1907-HT, this design utilizes an IMU (either an ICM-45686 or LSM6DSVTR) and a QMC6309 magnetometer.
